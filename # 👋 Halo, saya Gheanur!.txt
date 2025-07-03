@@ -1,0 +1,49 @@
+# 👋 Halo, saya Gheanur!
+
+## 💻 Tentang Saya
+
+Saya adalah seorang **Frontend Developer** dan **Desainer Grafis** yang berfokus pada tampilan visual dan pengalaman pengguna yang menarik. Saya suka membuat antarmuka yang intuitif, responsif, dan estetis — baik untuk aplikasi web maupun dalam bidang desain digital dan pengembangan game.
+
+---
+
+## 🔎 Info Singkat
+
+- 🔭 Saat ini sedang mengerjakan: proyek pribadi & kontribusi open source  
+- 🌱 Sedang mempelajari: [Unity](https://unity.com/) untuk pengembangan game  
+- 💬 Tanya saya seputar: React dan Adobe Illustrator  
+- 📫 Hubungi saya di: **bunabun29@gmail.com**  
+- ⚡ Fakta menarik: Saya suka membersihkan toilet 🧼🚽 (serius!)
+
+---
+
+## 🛠️ Teknologi yang Saya Gunakan
+
+**Bahasa Pemrograman:**  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
+![JSX](https://img.shields.io/badge/-JSX-black?style=flat-square&logo=react)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+
+**Framework & Tools:**  
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)  
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)  
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+---
+
+## 🎨 Proyek Saya
+
+Berikut adalah beberapa bidang yang saya tekuni:
+
+- 🎮 **Game Development** — Menggunakan Unity dan C# untuk membuat game 2D/3D  
+- 🖌️ **Desain Grafis** — Desain UI/UX, branding, dan media sosial menggunakan Figma & Adobe Illustrator  
+- 🌐 **Frontend Web Development** — Membangun tampilan website menggunakan React dan TailwindCSS  
+- 💼 **Web App** — Menggunakan Laravel dan PHP untuk sistem backend web yang ringan dan efisien
+
+> Kunjungi repositori saya di bawah ini untuk melihat hasil karya saya!
+
+---
+
+*Terima kasih telah mengunjungi profil saya! 🎉*

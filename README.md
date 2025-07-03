@@ -26,7 +26,7 @@ I'm a **Frontend Developer** and **Graphic Designer** focused on creating clean,
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel)  
+![Laravel](https://tse2.mm.bing.net/th/id/OIP.gX6qzrwCF_Z4ukpEovsMGAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)  
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
